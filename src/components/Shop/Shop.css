@@ -1,0 +1,31 @@
+.shop{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.input-div input{
+    width: 75%;
+    padding: .5rem;
+}
+.input-div{
+    background-color: black;
+    padding:20px 0px;
+}
+    
+.btn{
+    background-color: goldenrod;
+    width: 130px;
+    padding: 8px 9px;
+    border-radius: 8px;
+    border: none;
+}
+.pagination{
+    margin:30px;
+
+}
+.pagination button{
+    padding: 0 10px;
+    margin-right: 20px;
+}
+.pagination .selected{
+    background-color: cadetblue;
+}

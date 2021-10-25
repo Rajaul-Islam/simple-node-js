@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    justify-content: center;
+    border-right:1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+   
+}
+.btn{
+    background-color: goldenrod;
+    width: 130px;
+    padding: 7px 9px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.icon-color{
+    color: goldenrod;
+}
